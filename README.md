@@ -7,6 +7,8 @@ The goal is to provide a user-friendly, extendable, and functional calculator wi
 
 🎯 Features
 🔀 Multi-Mode System
+
+
 ![Calculator 6_23_2025 10_12_25 PM](https://github.com/user-attachments/assets/4c648fe2-a30a-47c7-97de-9f51c580eee0)
 
 The calculator provides several distinct operational modes accessible from a side menu:
