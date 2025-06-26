@@ -72,12 +72,6 @@ The settings menu (⚙️) allows the user to:
 
 Toggle dark/light mode (future expansion).
 
-Change angle unit (degrees/radians).
-
-Set themes or font sizes.
-
-Enable/disable sound or click feedback (optional).
-
 🖼️ GUI Breakdown
 The GUI consists of:
 
