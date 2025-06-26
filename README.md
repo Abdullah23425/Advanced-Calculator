@@ -22,6 +22,8 @@ Programmer Mode: Binary, hexadecimal conversions and bitwise operations.
 History: Shows previous calculations performed during the session.
 
 🔣 Scientific & Functional Operations
+
+
 ![Calculator 6_26_2025 8_24_58 PM](https://github.com/user-attachments/assets/757ff81c-f9a4-4e67-913e-20a69eb3e46d)
 
 The Functional Mode adds advanced operations:
@@ -51,6 +53,8 @@ MR: Recall memory.
 MC: Clear memory.
 
 History:
+
+
 ![Calculator 6_26_2025 8_23_54 PM](https://github.com/user-attachments/assets/578a81ab-9f9d-4210-9561-ee290c029f47)
 
 Track all calculations.
@@ -60,6 +64,8 @@ Accessible from the side menu (History 📜).
 Can be extended to support saving to file.
 
 🛠️ Settings Panel
+
+
 ![Calculator 6_26_2025 8_24_50 PM](https://github.com/user-attachments/assets/67167702-8386-45ed-8889-9f9e633a67a0)
 
 The settings menu (⚙️) allows the user to:
@@ -113,7 +119,9 @@ Edit
 src/
 │
 ├── calculator.java
+
 🧪 Example Calculations
+
 Input	Output
 sin(30)	0.5
 5 + 6 × (2 ^ 3)	53
@@ -134,6 +142,7 @@ Keyboard Shortcuts: For faster input.
 Mobile Version: Convert GUI to be responsive using JavaFX or port to Android.
 
 🔧 Installation & Running
+
 Requirements:
 Java 17 or higher.
 
